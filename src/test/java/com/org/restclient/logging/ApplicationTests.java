@@ -1,4 +1,4 @@
-package dev.danvega;
+package com.org.restclient.logging;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

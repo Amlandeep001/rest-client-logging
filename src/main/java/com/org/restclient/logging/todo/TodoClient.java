@@ -1,4 +1,4 @@
-package dev.danvega.todo;
+package com.org.restclient.logging.todo;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestClient;
 
-import dev.danvega.ClientLoggerRequestInterceptor;
+import com.org.restclient.logging.ClientLoggerRequestInterceptor;
 
 @Component
 public class TodoClient

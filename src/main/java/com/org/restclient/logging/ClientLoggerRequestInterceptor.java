@@ -1,4 +1,4 @@
-package dev.danvega;
+package com.org.restclient.logging;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;

@@ -8,11 +8,11 @@
 		<version>3.3.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>dev.danvega</groupId>
+	<groupId>com.org.restclient.logging</groupId>
 	<artifactId>rc-logging</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>rc-logging</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Spring Boot rest client logging</description>
 	<url/>
 	<licenses>
 		<license/>

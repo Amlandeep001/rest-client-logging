@@ -1,4 +1,4 @@
-package dev.danvega.post;
+package com.org.restclient.logging.post;
 
 import java.util.List;
 
