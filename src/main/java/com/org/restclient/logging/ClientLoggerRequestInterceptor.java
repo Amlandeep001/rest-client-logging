@@ -86,6 +86,7 @@ public class ClientLoggerRequestInterceptor implements ClientHttpRequestIntercep
 		}
 
 		@Override
+		@Deprecated
 		public int getRawStatusCode() throws IOException
 		{
 			return response.getRawStatusCode();
